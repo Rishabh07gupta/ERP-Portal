@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "115314146476",
+    "project_id": "imsec-489a0",
+    "storage_bucket": "imsec-489a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115314146476:android:7627ac3b5889c9a703f309",
+        "android_client_info": {
+          "package_name": "com.example.erp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115314146476-elriaum4dvnnh049g78phd17lboeu5dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvJG-Fp-2PzDWTdWBmLjff49EFpGzrD84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115314146476-elriaum4dvnnh049g78phd17lboeu5dn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
